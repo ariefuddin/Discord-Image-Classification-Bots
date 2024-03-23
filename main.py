@@ -43,4 +43,4 @@ async def check(ctx):
         await ctx.send("GAK ADA FILE YANG DITERIMA")
 
 
-bot.run("MTIxODQ1NTEzNDA1Nzc5MTUwOA.GV0kg3.Wq1rMGgp3a_zLKol_zSEMhqL1sJ7fWRFpOATPA")
+bot.run("Privacy!")
